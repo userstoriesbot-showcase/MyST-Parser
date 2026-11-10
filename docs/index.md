@@ -28,7 +28,7 @@ sd_hide_title: true
 ```{rubric} MyST - Markedly Structured Text - Parser
 ```
 
-A Sphinx and Docutils extension to parse MyST,
+A Sphinx and Docutils extension that parses MyST,
 a rich and extensible flavour of Markdown for authoring technical and scientific documentation.
 
 ````{div} sd-d-flex-row
